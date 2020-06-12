@@ -14,7 +14,7 @@ type IntAlias = int
 ````
 4. 定义新类型
 ````
-type NewInt = int
+type NewInt int
 ````
 5. 定义函数类型
 ````
